@@ -7,6 +7,7 @@
 Ограничение: 2000 запросов в месяц.
 
 Работа приложения:
+
  ![](https://github.com/NataliaGvozdeva/ViceSearch_Images/blob/master/PNG/VoiceSearch_view_01.png)
  ![](https://github.com/NataliaGvozdeva/ViceSearch_Images/blob/master/PNG/VoiceSearch_view_02.png)
  ![](https://github.com/NataliaGvozdeva/ViceSearch_Images/blob/master/PNG/VoiceSearch_view_03.png)
